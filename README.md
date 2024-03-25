@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashank Sharma</h1>
 <h3 align="center">A passionate Aspiring Business Analyst From India and always try to figure out some new gig which enhance my personality and boost my confidence</h3>
-<img align="right" alt="analyst" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fhimanshu-commits&psig=AOvVaw3QDilyfsqI85tf7t6AftfY&ust=1711429363938000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiJxazRjoUDFQAAAAAdAAAAABAE">
+<img align="right"alt="analyst"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fhimanshu-commits&psig=AOvVaw3QDilyfsqI85tf7t6AftfY&ust=1711429363938000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiJxazRjoUDFQAAAAAdAAAAABAE">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shycodeforu&label=Profile%20views&color=0e75b6&style=flat" alt="shycodeforu" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shashankshama03" target="blank"><img src="https://img.shields.io/twitter/follow/shashankshama03?logo=twitter&style=for-the-badge" alt="shashankshama03" /></a> </p>
